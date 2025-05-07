@@ -12,7 +12,7 @@
 1. Set up your table and code blocks.
 1. Perform this step.
 
-   ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_im7.jpg?lang=es)
+   ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_logo.png?lang=es)
 
 1. Make sure that your table looks like this:
 
@@ -28,6 +28,6 @@
 
 1. Do another step.
 
-   ![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+   ![Adobe Logo](https://github.com/melnet22/Practica7/blob/main/im7.jpg)
 
 
